@@ -1,2 +1,2 @@
 # TSP-Metaheuristic
-Solving the travelling salesman problem (TSP) using metaheuristics and stochastic methods (in collaboration with KARABAY Mehmet).
+Solving the travelling salesman problem (TSP) using metaheuristics and stochastic methods (in collaboration with TEKELI Emin-Can).
